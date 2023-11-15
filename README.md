@@ -1,5 +1,8 @@
-<h1 align="center" align-items="center" justify-conteent="center"><img src="https://media.tenor.com/YiR_E8DMDy8AAAAC/tweety-bird.gif"></h1>
-👋 Hello, This is my GitHub playground...
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://t4.ftcdn.net/jpg/05/90/45/35/240_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://t4.ftcdn.net/jpg/05/90/45/35/240_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://t4.ftcdn.net/jpg/05/90/45/35/240_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg">
+</picture>
 
 ## 📊 GitHub Stats
 
