@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="[https://tenor.com/view/baby-yoda-hi-hello-greet-wave-gif-15912640](https://tenor.com/view/mando-this-is-the-way-the-mandalorian-gif-19016160)">
- <source media="(prefers-color-scheme: light)" srcset="[https://t4.ftcdn.net/jpg/05/90/45/35/240_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg](https://tenor.com/view/mando-this-is-the-way-the-mandalorian-gif-19016160)">
- <img alt="YOUR-ALT-TEXT" src="[https://t4.ftcdn.net/jpg/05/90/45/35/240_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg](https://tenor.com/view/mando-this-is-the-way-the-mandalorian-gif-19016160)">
+ <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
+ <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
+ <img alt="YOUR-ALT-TEXT" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
 </picture>
 
 ## 📊 GitHub Stats
