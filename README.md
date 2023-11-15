@@ -1,6 +1,6 @@
 # Welcome to the GitHub Profile of sirln
 
-~K Hello, This is my GitHub playground...
+👋 Hello, This is my GitHub playground...
 
 ## 📊 GitHub Stats
 
