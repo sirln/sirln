@@ -1,24 +1,6 @@
 # Welcome to the GitHub Profile of sirln
 
-👋 Hello, I'm a passionate software developer with a focus on [mention your key areas of expertise or interest]. This is my GitHub playground where I bring ideas to life through code. Feel free to explore the projects and contributions below.
-
-## 🚀 Featured Projects
-
-### [Project Name 1](Link to Project 1)
-
-- Brief description of the project.
-- Technologies used, including TypeScript.
-- Key features or highlights.
-- Links to live demo or deployed version.
-
-### [Project Name 2](Link to Project 2)
-
-- Brief description of the project.
-- Technologies used, including TypeScript.
-- Key features or highlights.
-- Links to live demo or deployed version.
-
-...
+~K Hello, This is my GitHub playground...
 
 ## 📊 GitHub Stats
 
