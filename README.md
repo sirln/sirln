@@ -13,19 +13,26 @@
     <p>Welcome to my GitHub profile.</p>
 </h3>
 
-
-
 ## 📊 GitHub Stats and Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sirln&show_icons=true&theme=radical" alt="GitHub Stats" width="54%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirln&layout=compact&theme=radical" alt="Top Languages" width="41%" />
+  <a href="https://github.com/sirln">
+    <img src="https://github-readme-stats.vercel.app/api?username=sirln&show_icons=true&theme=radical" alt="GitHub Stats" width="54%" />
+  </a>
+  <a href="https://github.com/sirln">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirln&layout=compact&theme=radical" alt="Top Languages" width="41%" />
+  </a>
 </div>
 
 ## GitHub Contributions Chart
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirln&theme=dark" alt="GitHub Streak" width="48%" />
+  <a href="https://github.com/sirln">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirln&theme=radical" width="60%"/>
+  </a>
+  <a href="https://github.com/sirln">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirln&theme=dark" alt="GitHub Streak" width="38%" />
+  </a>
 </div>
 
 ## GitHub Views and Stars
