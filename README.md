@@ -4,24 +4,6 @@
  <img alt="YOUR-ALT-TEXT" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 </picture>
 
-## 📊 GitHub Stats and Top Languages
-
-<div style="display: flex; justify-content: space-between;">
-
-  <div style="flex: 1; margin-right: 20px;">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sirln&show_icons=true&theme=radical)
-  
-  </div>
-
-  <div style="flex: 1;">
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sirln&layout=compact&theme=radical)
-  
-  </div>
-
-</div>
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sirln&show_icons=true&theme=radical)
