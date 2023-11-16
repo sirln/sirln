@@ -1,12 +1,19 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
- <img alt="YOUR-ALT-TEXT" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
+  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
 </picture>
 
-# Hi there! 👋
+<h3 align="center">
+    <p>Hello you, yes You!</p>
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         height="45"
+         width="45" />
+    <p>I'm Siro!</p>
+    <p>Welcome to my GitHub profile.</p>
+</h3>
 
-Welcome to my GitHub profile.
+
 
 ## 📊 GitHub Stats and Top Languages
 
